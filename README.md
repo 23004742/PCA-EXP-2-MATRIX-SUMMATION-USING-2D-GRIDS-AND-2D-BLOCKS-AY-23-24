@@ -1,7 +1,7 @@
 # PCA-EXP-2-Matrix-Summation-using-2D-Grids-and-2D-Blocks-AY-23-24
 
-<h3>T AJAY</h3>
-<h3>212223230007</h3>
+<h3>L yagnesh kumar reddy</h3>
+<h3>212223100024</h3>
 <h3>EX. NO2</h3>
 <h3>12.09.2025</h3>
 <h1> <align=center> MATRIX SUMMATION WITH A 2D GRID AND 2D BLOCKS </h3>
